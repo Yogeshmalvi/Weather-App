@@ -7,7 +7,7 @@ import 'dart:convert';
 class AlertsTabPage extends StatefulWidget {
   final String apiKey;
   final String cityName;
-  
+
 
   const AlertsTabPage({
     Key? key,
